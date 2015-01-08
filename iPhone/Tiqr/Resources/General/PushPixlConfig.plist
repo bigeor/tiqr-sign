@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APP_TENANT</key>
+	<string>neopixl</string>
+	<key>APP_SERVER_USE_HTTPS</key>
+	<true/>
+	<key>APP_SERVER_DOMAIN</key>
+	<string>pushpixl.io</string>
+	<key>APP_TOKEN</key>
+	<string>912a3ae5-df71-4c75-a168-fc2cd5b019f2</string>
+	<key>APP_SECRET</key>
+	<string>235255fc-bde7-45af-9e98-02cedaa25d4b</string>
+</dict>
+</plist>

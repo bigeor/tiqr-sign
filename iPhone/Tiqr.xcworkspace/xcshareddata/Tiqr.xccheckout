@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8724AEED-F75A-4961-81CD-0D3885FE5E95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tiqr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>697A5F895AFE0513F57674C2DC100B5CFF9E6EA6</key>
+		<string>https://github.com/SURFnet/tiqr.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhone/Tiqr.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>697A5F895AFE0513F57674C2DC100B5CFF9E6EA6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SURFnet/tiqr.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>697A5F895AFE0513F57674C2DC100B5CFF9E6EA6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>697A5F895AFE0513F57674C2DC100B5CFF9E6EA6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tiqr</string>
+		</dict>
+	</array>
+</dict>
+</plist>
